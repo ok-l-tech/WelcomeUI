@@ -1,0 +1,6 @@
+WelcomeUI_Plugin/
+├── pom.xml
+└── src/
+    └── main/
+        ├── java/net/welcomeui/WelcomeUI.java
+        └── resources/plugin.yml, config.yml
